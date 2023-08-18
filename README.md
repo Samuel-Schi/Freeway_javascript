@@ -7,7 +7,7 @@ Projeto final desenvolvido e ofericido pela cursoLógica de programação: laço
 <br>
 
 <p align="center">
-  <img alt="pong" src="" width="100%">
+  <img alt="freeway" src="pfc.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
